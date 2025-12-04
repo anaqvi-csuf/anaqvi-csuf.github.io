@@ -1,6 +1,6 @@
 # Arsalan Naqvi's Portfolio
 
-I am an Electrical Engineering major at CSUF and plan on graduating 2027.
+I am an Electrical Engineering major at CSUF and plan on graduating 2027. My Github page is https://github.com/anaqvi-csuf
 
 ## Favorite CPSC 120L Labs
 
